@@ -1,4 +1,4 @@
-# Project files for the [Tailwind CSS Tutoriak](https://themesberg.com/blog/tailwind-css/tailwind-css-tutorial)
+# Project files for the [Tailwind CSS Tutorial](https://themesberg.com/blog/tailwind-css/tailwind-css-tutorial)
 
 ![Tailwind CSS tutorial: learn how to build websites using a utility-first CSS framework](https://themesberg.s3.us-east-2.amazonaws.com/public/posts/tailwind-css-tutorial.jpg)
 
