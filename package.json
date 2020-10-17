@@ -1,0 +1,37 @@
+{
+  "name": "tailwindcss-tutorial",
+  "version": "1.0.0",
+  "description": "Tailwind CSS Tutorial Project Files from Themesberg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "tailwind",
+    "tailwind",
+    "css",
+    "tutorial",
+    "tailwind",
+    "css",
+    "boilerplate",
+    "tailwind",
+    "css",
+    "landing",
+    "page",
+    "tailwind",
+    "css",
+    "website",
+    "tailwind",
+    "css",
+    "themesberg",
+    "tailwind",
+    "tutorial"
+  ],
+  "author": "Themesberg",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.9.2"
+  }
+}
